@@ -1,0 +1,7 @@
+{
+  "name": "AbsensiPro - Sistem Manajemen Kehadiran & Payroll",
+  "description": "A comprehensive HR management system featuring attendance tracking, payroll processing, shifting, department management, and biometric machine integration simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
